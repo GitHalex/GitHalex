@@ -11,6 +11,23 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
+    <summary><h2 style="display: inline-block">Web Development👨🏻‍💻</h2></summary>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,figma,graphql,md,materialui,nextjs,postman,tailwind,vscode,jest,cypress" />
+  </a>
+</p>
+  </ul>
+</div>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
