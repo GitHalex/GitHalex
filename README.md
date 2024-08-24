@@ -41,7 +41,7 @@
 ¡Hola! Soy un programador web apasionado por el desarrollo de software y la tecnología. Mi viaje en el mundo de la programación me ha llevado a especializarme en tecnologías web, donde disfruto creando soluciones eficientes y escalables. Además, tengo un gran interés por el campo de DevOps y la computación en la nube, lo que me impulsa a explorar constantemente nuevas herramientas y prácticas para optimizar el desarrollo y despliegue de aplicaciones.<br><br>Me encanta trabajar con tecnologías modernas y estoy siempre en busca de oportunidades para aprender y crecer en este emocionante campo. En mi repositorio encontrarás proyectos que reflejan mi pasión por la tecnología y mi compromiso con la calidad y la innovación.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cloudlex_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanyinson-alex-calcina-bernal-b8b758212/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Cloudlex_01) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cloudlex_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanyinson-alex-cb-ing) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Cloudlex_01) 
 
 # 💻 Tech Stack:
 Desing
